@@ -5,8 +5,7 @@
 
 
 from openpyxl import Workbook
-#JHONY KEVIN MENDONCA 0040972213030
-#DANIEL DOS SANTOS SILVA JUNIOR RA:00
+
 def preencherTabuleiro(planilha1):
     graos = 1
     qtd_linhas = 8
